@@ -1,7 +1,7 @@
 {
   "name": "spa-concepts",
   "version": "1.0.0",
-  "description": "",
+  "description": "O que será abordado nesse desafio:",
   "main": "index.js",
   "scripts": {
     "start": "lite-server"
@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "lite-server": "^2.6.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianemartini/spa-universe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vivianemartini/spa-universe/issues"
+  },
+  "homepage": "https://github.com/vivianemartini/spa-universe#readme"
 }

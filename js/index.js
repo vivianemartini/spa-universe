@@ -1,4 +1,7 @@
 import { Router } from './router.js'
+import events from "./events.js"
+
+const event = events()
 
 const router = new Router()
 router.add('/', '/pages/home.html')
